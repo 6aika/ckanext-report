@@ -1,0 +1,10 @@
+[main]
+host = https://www.transifex.com
+
+[sixodp.ckanext-report-pot]
+file_filter = ckanext/report/i18n/<lang>/LC_MESSAGES/ckanext-report.po
+minimum_perc = 0
+source_file = ckanext/report/i18n/ckanext-report.pot
+source_lang = en
+type = PO
+
