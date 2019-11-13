@@ -31,7 +31,7 @@ msgstr "Raportit"
 
 #: ckanext/report/templates/report/index.html:26
 msgid "View Report"
-msgstr ""
+msgstr "Avaa raportti"
 
 #: ckanext/report/templates/report/option_organization.html:9
 msgid "Publisher:"
@@ -43,26 +43,28 @@ msgstr ""
 
 #: ckanext/report/templates/report/view.html:14
 msgid "Generated"
-msgstr ""
+msgstr "Generoitu"
 
 #: ckanext/report/templates/report/view.html:23
 msgid ""
 "As a system administrator you are able to refresh this report on demand by "
 "clicking the 'Refresh' button."
 msgstr ""
+"Järjestelmän ylläpitäjänä voit pakottaa tämän raportin päivityksen "
+"painamalla 'Päivitä'"
 
 #: ckanext/report/templates/report/view.html:29
 msgid "Options"
-msgstr ""
+msgstr "Valinnat"
 
 #: ckanext/report/templates/report/view.html:45
 msgid "Download"
-msgstr ""
+msgstr "Lataa"
 
 #: ckanext/report/templates/report/view.html:50
 msgid "Results"
-msgstr ""
+msgstr "Tulokset"
 
 #: ckanext/report/templates/report/view.html:52
 msgid "No results found."
-msgstr ""
+msgstr "Tuloksia ei löytynyt"
