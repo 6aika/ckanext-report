@@ -50,9 +50,7 @@ msgstr "Luotu"
 msgid ""
 "As a system administrator you are able to refresh this report on demand by "
 "clicking the 'Refresh' button."
-msgstr ""
-"Järjestelmän ylläpitäjänä voit pakottaa tämän raportin päivityksen "
-"painamalla 'Päivitä'"
+msgstr "Voit päivittää tämän raportin nyt painamalla 'Päivitä'"
 
 #: ckanext/report/templates/report/view.html:29
 msgid "Options"

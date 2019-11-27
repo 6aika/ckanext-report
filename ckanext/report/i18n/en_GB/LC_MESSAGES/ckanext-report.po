@@ -50,6 +50,7 @@ msgid ""
 "As a system administrator you are able to refresh this report on demand by "
 "clicking the 'Refresh' button."
 msgstr ""
+"You can refresh this report on demand by clicking the 'Refresh' button."
 
 #: ckanext/report/templates/report/view.html:29
 msgid "Options"
