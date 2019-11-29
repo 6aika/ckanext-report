@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ckanext-report 0.1\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-11-04 08:20+0000\n"
+"POT-Creation-Date: 2019-11-29 13:40+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -28,10 +28,15 @@ msgstr ""
 msgid "View Report"
 msgstr ""
 
+#: ckanext/report/templates/report/option_include_sub_organizations.html:9
+msgid " Include results from sub-publishers "
+msgstr ""
+
 #: ckanext/report/templates/report/option_organization.html:9
 msgid "Publisher:"
 msgstr ""
 
+#: ckanext/report/templates/report/option_organization.html:12
 #: ckanext/report/templates/report/option_organization.html:16
 msgid "Index of all publishers"
 msgstr ""
