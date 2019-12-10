@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ckanext-report 0.1\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-11-29 13:40+0000\n"
+"POT-Creation-Date: 2019-12-10 06:45+0000\n"
 "PO-Revision-Date: 2019-11-04 08:21+0000\n"
 "Last-Translator: Zharktas <jari-pekka.voutilainen@gofore.com>, 2019\n"
 "Language-Team: Swedish (https://www.transifex.com/6aika-dataportal/teams/68018/sv/)\n"
@@ -48,6 +48,14 @@ msgstr ""
 
 #: ckanext/report/templates/report/view.html:14
 msgid "Generated"
+msgstr ""
+
+#: ckanext/report/templates/report/view.html:18
+msgid "Refresh report"
+msgstr ""
+
+#: ckanext/report/templates/report/view.html:21
+msgid "Refresh"
 msgstr ""
 
 #: ckanext/report/templates/report/view.html:23
