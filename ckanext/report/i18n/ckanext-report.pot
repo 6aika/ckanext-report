@@ -1,21 +1,21 @@
 # Translations template for ckanext-report.
-# Copyright (C) 2019 ORGANIZATION
+# Copyright (C) 2023 ORGANIZATION
 # This file is distributed under the same license as the ckanext-report project.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 #
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: ckanext-report 0.1\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-12-10 06:55+0000\n"
+"POT-Creation-Date: 2023-02-16 13:37+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.3.4\n"
+"Generated-By: Babel 2.7.0\n"
 
 #: ckanext/report/templates/report/index.html:3
 #: ckanext/report/templates/report/index.html:6
@@ -29,49 +29,73 @@ msgid "View Report"
 msgstr ""
 
 #: ckanext/report/templates/report/option_include_sub_organizations.html:9
-msgid " Include results from sub-publishers "
+msgid "Include results from sub-organizations"
 msgstr ""
 
 #: ckanext/report/templates/report/option_organization.html:9
-msgid "Publisher:"
+msgid "Organization"
 msgstr ""
 
 #: ckanext/report/templates/report/option_organization.html:12
 #: ckanext/report/templates/report/option_organization.html:16
-msgid "Index of all publishers"
+msgid "Index of all organizations"
 msgstr ""
 
-#: ckanext/report/templates/report/view.html:14
+#: ckanext/report/templates/report/tagless-datasets.html:11
+msgid "Datasets without tags"
+msgstr ""
+
+#: ckanext/report/templates/report/tagless-datasets.html:12
+msgid "Average tags per package"
+msgstr ""
+
+#: ckanext/report/templates/report/tagless-datasets.html:18
+msgid "Dataset"
+msgstr ""
+
+#: ckanext/report/templates/report/tagless-datasets.html:19
+msgid "Notes"
+msgstr ""
+
+#: ckanext/report/templates/report/tagless-datasets.html:20
+msgid "User"
+msgstr ""
+
+#: ckanext/report/templates/report/tagless-datasets.html:21
+msgid "Created"
+msgstr ""
+
+#: ckanext/report/templates/report/view.html:19
 msgid "Generated"
 msgstr ""
 
-#: ckanext/report/templates/report/view.html:18
+#: ckanext/report/templates/report/view.html:23
 msgid "Refresh report"
 msgstr ""
 
-#: ckanext/report/templates/report/view.html:21
+#: ckanext/report/templates/report/view.html:26
 msgid "Refresh"
 msgstr ""
 
-#: ckanext/report/templates/report/view.html:23
+#: ckanext/report/templates/report/view.html:28
 msgid ""
 "As a system administrator you are able to refresh this report on demand by "
 "clicking the 'Refresh' button."
 msgstr ""
 
-#: ckanext/report/templates/report/view.html:29
+#: ckanext/report/templates/report/view.html:34
 msgid "Options"
 msgstr ""
 
-#: ckanext/report/templates/report/view.html:45
+#: ckanext/report/templates/report/view.html:50
 msgid "Download"
 msgstr ""
 
-#: ckanext/report/templates/report/view.html:50
+#: ckanext/report/templates/report/view.html:55
 msgid "Results"
 msgstr ""
 
-#: ckanext/report/templates/report/view.html:52
+#: ckanext/report/templates/report/view.html:57
 msgid "No results found."
 msgstr ""
 
